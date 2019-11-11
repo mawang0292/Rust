@@ -1,0 +1,10 @@
+cargo
+
+//프로젝트 생성
+cargo new (프로젝트 이름) --bin
+//프로젝트 빌드
+cargo build
+//프로젝트 실행
+cargo run
+//프로젝트 폴더 비주얼코드로 실행
+폴더 cmd code .
